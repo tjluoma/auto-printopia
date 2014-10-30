@@ -22,10 +22,10 @@ To make it active again,
 
 The key is automating it. There are several ways of doing it. The easiest is [Keyboard Maestro][]:
 
-![](img/auto-printopia.jpg)
+![Screenshot of how the Keyboard Maestro macro looks](Keyboard-Maestro-screenshot.jpg)
 
 Just change the wireless network names depending on which one you want to control. You can
-[download the Keyboard Maestro macro here](printopia.kmmacros.zip)
+[download the Keyboard Maestro macro here](https://github.com/tjluoma/auto-printopia/raw/master/printopia.kmmacros.zip)
 
 [Keyboard Maestro]: http://www.keyboardmaestro.com/main/
 
@@ -53,4 +53,5 @@ I think [auto-printopia.sh](auto-printopia.sh) should be self-explanatory if you
 
 
 p.s. - “Rose Orchard” is an awesome name.
+
 
